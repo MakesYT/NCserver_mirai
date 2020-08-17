@@ -1,0 +1,2 @@
+# NCserver_mirai
+此项目用作所有与NCserver有关的mirai插件开发
